@@ -1,3 +1,3 @@
 # Add your variables here
 first_number = 10
-second_number = 'hello world'
+second_number = 1
